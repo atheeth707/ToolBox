@@ -3,7 +3,7 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://tool-box-free.vercel.app/</loc>
+    <loc>https://free-toolbox.vercel.app/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -11,55 +11,55 @@
 
   <!-- Categories -->
   <url>
-    <loc>https://tool-box-free.vercel.app/category/ai_generation</loc>
+    <loc>https://free-toolbox.vercel.app/category/ai_generation</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/education</loc>
+    <loc>https://free-toolbox.vercel.app/category/education</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/media_tools</loc>
+    <loc>https://free-toolbox.vercel.app/category/media_tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/developer_tools</loc>
+    <loc>https://free-toolbox.vercel.app/category/developer_tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/networking</loc>
+    <loc>https://free-toolbox.vercel.app/category/networking</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/calculators</loc>
+    <loc>https://free-toolbox.vercel.app/category/calculators</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/image_processing</loc>
+    <loc>https://free-toolbox.vercel.app/category/image_processing</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/games</loc>
+    <loc>https://free-toolbox.vercel.app/category/games</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/category/productivity</loc>
+    <loc>https://free-toolbox.vercel.app/category/productivity</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -67,955 +67,955 @@
 
   <!-- Tools -->
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/10thbooks</loc>
+    <loc>https://free-toolbox.vercel.app/tool/10thbooks</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/11thbooks</loc>
+    <loc>https://free-toolbox.vercel.app/tool/11thbooks</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/12thbooks</loc>
+    <loc>https://free-toolbox.vercel.app/tool/12thbooks</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/age-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/age-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-background-remover</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-background-remover</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-chatbot</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-chatbot</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-content-tools</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-content-tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-faceswap</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-faceswap</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-image-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-image-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-image-tools</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-image-tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-speech-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-speech-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-video-tools</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-video-tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ai-website-tools</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ai-website-tools</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ascii-art-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ascii-art-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ascii-banner</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ascii-banner</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/audio-downloader</loc>
+    <loc>https://free-toolbox.vercel.app/tool/audio-downloader</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/audio-extractor</loc>
+    <loc>https://free-toolbox.vercel.app/tool/audio-extractor</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/base64-encoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/base64-encoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/base64-file-decoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/base64-file-decoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/base64-file-encoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/base64-file-encoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/base64-to-image</loc>
+    <loc>https://free-toolbox.vercel.app/tool/base64-to-image</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/basic-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/basic-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/bmi-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/bmi-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/browser-info</loc>
+    <loc>https://free-toolbox.vercel.app/tool/browser-info</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/caption-formatter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/caption-formatter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/challenges</loc>
+    <loc>https://free-toolbox.vercel.app/tool/challenges</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/clipboard-manager</loc>
+    <loc>https://free-toolbox.vercel.app/tool/clipboard-manager</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/clipboard-sharing</loc>
+    <loc>https://free-toolbox.vercel.app/tool/clipboard-sharing</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/clips-downloader</loc>
+    <loc>https://free-toolbox.vercel.app/tool/clips-downloader</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/code-beautifier</loc>
+    <loc>https://free-toolbox.vercel.app/tool/code-beautifier</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/code-minifier</loc>
+    <loc>https://free-toolbox.vercel.app/tool/code-minifier</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/coin-flip</loc>
+    <loc>https://free-toolbox.vercel.app/tool/coin-flip</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/color-converter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/color-converter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/color-picker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/color-picker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/connection-status-ui</loc>
+    <loc>https://free-toolbox.vercel.app/tool/connection-status-ui</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/countdown-timer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/countdown-timer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/cps-counter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/cps-counter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/cron-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/cron-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/csv-to-json</loc>
+    <loc>https://free-toolbox.vercel.app/tool/csv-to-json</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/daily-planner</loc>
+    <loc>https://free-toolbox.vercel.app/tool/daily-planner</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/data-sorter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/data-sorter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/date-to-epoch</loc>
+    <loc>https://free-toolbox.vercel.app/tool/date-to-epoch</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/days-between-dates</loc>
+    <loc>https://free-toolbox.vercel.app/tool/days-between-dates</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/dice-roller</loc>
+    <loc>https://free-toolbox.vercel.app/tool/dice-roller</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/diff-checker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/diff-checker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/discount-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/discount-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/drag-drop-file-send</loc>
+    <loc>https://free-toolbox.vercel.app/tool/drag-drop-file-send</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/duplicate-row-remover</loc>
+    <loc>https://free-toolbox.vercel.app/tool/duplicate-row-remover</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/email-extractor</loc>
+    <loc>https://free-toolbox.vercel.app/tool/email-extractor</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/emi-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/emi-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/emoji-combiner</loc>
+    <loc>https://free-toolbox.vercel.app/tool/emoji-combiner</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/encryption-demo</loc>
+    <loc>https://free-toolbox.vercel.app/tool/encryption-demo</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/encryption-layer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/encryption-layer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/epoch-to-date</loc>
+    <loc>https://free-toolbox.vercel.app/tool/epoch-to-date</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/fake-chat-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/fake-chat-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/file-metadata</loc>
+    <loc>https://free-toolbox.vercel.app/tool/file-metadata</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/file-size-converter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/file-size-converter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/font-style-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/font-style-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/goal-tracker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/goal-tracker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/gst-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/gst-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/habit-tracker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/habit-tracker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/hashtag-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/hashtag-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/html-encoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/html-encoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/http-header-parser</loc>
+    <loc>https://free-toolbox.vercel.app/tool/http-header-parser</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-compressor</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-compressor</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-cropper</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-cropper</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-flipper</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-flipper</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-resizer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-resizer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-rotator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-rotator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-sharing-p2p</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-sharing-p2p</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-to-base64</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-to-base64</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/image-to-pdf</loc>
+    <loc>https://free-toolbox.vercel.app/tool/image-to-pdf</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/instagram-caption-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/instagram-caption-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/invoice-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/invoice-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ip-checker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ip-checker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/jpg-to-png</loc>
+    <loc>https://free-toolbox.vercel.app/tool/jpg-to-png</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/json-formatter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/json-formatter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/json-to-csv</loc>
+    <loc>https://free-toolbox.vercel.app/tool/json-to-csv</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/json-to-xml</loc>
+    <loc>https://free-toolbox.vercel.app/tool/json-to-xml</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/jwt-decoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/jwt-decoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/keyword-density-checker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/keyword-density-checker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/link-preview</loc>
+    <loc>https://free-toolbox.vercel.app/tool/link-preview</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/link-qr-code</loc>
+    <loc>https://free-toolbox.vercel.app/tool/link-qr-code</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/loan-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/loan-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/lorem-ipsum-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/lorem-ipsum-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/markdown-previewer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/markdown-previewer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/md5-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/md5-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/meeting-timer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/meeting-timer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/meme-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/meme-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/memory-match</loc>
+    <loc>https://free-toolbox.vercel.app/tool/memory-match</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/multi-user-room</loc>
+    <loc>https://free-toolbox.vercel.app/tool/multi-user-room</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/nickname-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/nickname-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/notes-app</loc>
+    <loc>https://free-toolbox.vercel.app/tool/notes-app</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/number-formatter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/number-formatter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/number-guess</loc>
+    <loc>https://free-toolbox.vercel.app/tool/number-guess</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/open-graph-preview</loc>
+    <loc>https://free-toolbox.vercel.app/tool/open-graph-preview</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/p2p-file-sharing</loc>
+    <loc>https://free-toolbox.vercel.app/tool/p2p-file-sharing</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/p2p-text-chat</loc>
+    <loc>https://free-toolbox.vercel.app/tool/p2p-text-chat</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/password-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/password-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/password-strength</loc>
+    <loc>https://free-toolbox.vercel.app/tool/password-strength</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/percentage-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/percentage-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/ping-tool</loc>
+    <loc>https://free-toolbox.vercel.app/tool/ping-tool</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/png-to-jpg</loc>
+    <loc>https://free-toolbox.vercel.app/tool/png-to-jpg</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/pomodoro-timer</loc>
+    <loc>https://free-toolbox.vercel.app/tool/pomodoro-timer</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/qr-code-join-room</loc>
+    <loc>https://free-toolbox.vercel.app/tool/qr-code-join-room</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/qr-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/qr-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/quiz</loc>
+    <loc>https://free-toolbox.vercel.app/tool/quiz</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/random-color</loc>
+    <loc>https://free-toolbox.vercel.app/tool/random-color</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/random-date-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/random-date-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/random-name-picker</loc>
+    <loc>https://free-toolbox.vercel.app/tool/random-name-picker</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/random-story-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/random-story-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/random-string-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/random-string-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/reaction-test</loc>
+    <loc>https://free-toolbox.vercel.app/tool/reaction-test</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/regex-tester</loc>
+    <loc>https://free-toolbox.vercel.app/tool/regex-tester</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/remove-duplicate-lines</loc>
+    <loc>https://free-toolbox.vercel.app/tool/remove-duplicate-lines</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/resume-builder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/resume-builder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/robots-txt-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/robots-txt-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/rock-paper-scissors</loc>
+    <loc>https://free-toolbox.vercel.app/tool/rock-paper-scissors</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/scientific-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/scientific-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/secure-room-join</loc>
+    <loc>https://free-toolbox.vercel.app/tool/secure-room-join</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/sha256-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/sha256-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/sitemap-builder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/sitemap-builder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/slug-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/slug-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/social-share-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/social-share-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/speed-test</loc>
+    <loc>https://free-toolbox.vercel.app/tool/speed-test</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/spin-wheel</loc>
+    <loc>https://free-toolbox.vercel.app/tool/spin-wheel</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/sql-formatter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/sql-formatter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/stopwatch</loc>
+    <loc>https://free-toolbox.vercel.app/tool/stopwatch</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/table-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/table-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-case-converter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-case-converter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-glitch</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-glitch</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-notepad</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-notepad</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-reverser</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-reverser</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-sorter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-sorter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/text-table-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/text-table-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/thumbnail-preview</loc>
+    <loc>https://free-toolbox.vercel.app/tool/thumbnail-preview</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/time-duration-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/time-duration-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/timezone-converter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/timezone-converter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/todo-list</loc>
+    <loc>https://free-toolbox.vercel.app/tool/todo-list</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/token-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/token-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/truth-dare</loc>
+    <loc>https://free-toolbox.vercel.app/tool/truth-dare</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/typing-test</loc>
+    <loc>https://free-toolbox.vercel.app/tool/typing-test</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/unit-converter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/unit-converter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/url-encoder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/url-encoder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/url-shortener-mock</loc>
+    <loc>https://free-toolbox.vercel.app/tool/url-shortener-mock</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/user-agent-parser</loc>
+    <loc>https://free-toolbox.vercel.app/tool/user-agent-parser</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/utm-builder</loc>
+    <loc>https://free-toolbox.vercel.app/tool/utm-builder</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/uuid-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/uuid-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/video-embed</loc>
+    <loc>https://free-toolbox.vercel.app/tool/video-embed</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/video-metadata</loc>
+    <loc>https://free-toolbox.vercel.app/tool/video-metadata</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/video-to-gif</loc>
+    <loc>https://free-toolbox.vercel.app/tool/video-to-gif</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/whatsapp-link</loc>
+    <loc>https://free-toolbox.vercel.app/tool/whatsapp-link</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/wheel-spinner</loc>
+    <loc>https://free-toolbox.vercel.app/tool/wheel-spinner</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/word-counter</loc>
+    <loc>https://free-toolbox.vercel.app/tool/word-counter</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/working-days-calculator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/working-days-calculator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/xml-to-json</loc>
+    <loc>https://free-toolbox.vercel.app/tool/xml-to-json</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/yes-no-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/yes-no-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/yt-thumbnail-downloader</loc>
+    <loc>https://free-toolbox.vercel.app/tool/yt-thumbnail-downloader</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tool-box-free.vercel.app/tool/yt-title-generator</loc>
+    <loc>https://free-toolbox.vercel.app/tool/yt-title-generator</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
